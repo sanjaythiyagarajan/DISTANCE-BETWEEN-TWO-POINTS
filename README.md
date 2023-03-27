@@ -16,7 +16,10 @@ Enter the coordinates of point one and two in the input
 
 ### Step 3: 
 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula 
+
+![image](https://user-images.githubusercontent.com/119409242/227884085-f5158d28-2fd2-42d1-83ad-ba8031b916b0.png)
+
 
 ### Step 4: 
 
